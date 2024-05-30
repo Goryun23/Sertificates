@@ -92,13 +92,36 @@
       <img src="https://github.com/Zhirkin22/Sert/assets/163585803/c45ee289-dd1b-4500-9cdc-363f815d1d13" title="SQL">
     </td>
   </tr>
+
+   <tr>
+    <th colspan="2" style="text-align:center;"><h3>Postman automation</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+
+<br>JS
+<br>Postman
+<br>Web Automation
+<br>API Automation
+
+
+
+<br>Test automation for REST API with Postman
+<br>API automation
+<br>Infrastructure & Notifications
+<br>Basics of JavaScript
+<br>Libraries node.js and chai.js
+<br>API Work
+
+  </td>
+    <td width="70%">
+      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/1aab3f2d-b9ff-4f58-bcb8-4429ede3c508" title="Postman automation">
+    </td>
+  </tr>
   
  
 
  
 
 
-
- 
-  
 </table>
