@@ -52,7 +52,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/e6960680-4f23-4d73-8db8-26719a72056e" title="Postman automation">
+      <img src="https://github.com/Goryun23/Sertificates/blob/main/postman2.png" title="Postman automation">
     </td>
   </tr>
   
@@ -93,31 +93,7 @@
     </td>
   </tr>
   
- <tr>
-    <th colspan="2" style="text-align:center;"><h3>Postman automation</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>JS
-<br>Postman
-<br>Web Automation
-<br>API Automation
-
-
-
-<br>Test automation for REST API with Postman
-<br>API automation
-<br>Infrastructure & Notifications
-<br>Basics of JavaScript
-<br>Libraries node.js and chai.js
-<br>API Work
-
-  </td>
-    <td width="70%">
-      <img src="https://github.com/Goryun23/Sertificates/blob/main/postman2.png" title="Postman automation">
-    </td>
-  </tr>
+ 
 
  
 
