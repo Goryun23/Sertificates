@@ -16,23 +16,8 @@
     </td>
   </tr>
   
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Gitlab</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
+  
 
-<br>Gitlab
-<br>CI/CD
-<br>Web Automation
-<br>Test Reports
-<br>Test Management
-
-  </td>
-    <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/465ea2d3-3f54-4c97-b5fb-91b081c0e0b9" title="Gitlab">
-  </td>
-  </tr>
   
   <tr>
     <th colspan="2" style="text-align:center;"><h3>Jenkins</h3></th>
