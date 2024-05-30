@@ -89,7 +89,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/c45ee289-dd1b-4500-9cdc-363f815d1d13" title="SQL">
+      <img src="https://github.com/Goryun23/Sertificates/blob/main/SQL.png" title="SQL">
     </td>
   </tr>
 
