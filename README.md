@@ -115,7 +115,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/1aab3f2d-b9ff-4f58-bcb8-4429ede3c508" title="Postman automation">
+      <img src="https://github.com/Goryun23/Sertificates/blob/main/Automatic%20Postman.png" title="Postman automation">
     </td>
   </tr>
   
