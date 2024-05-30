@@ -16,12 +16,6 @@
     </td>
   </tr>
   
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Gitlab</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
   
   <tr>
     <th colspan="2" style="text-align:center;"><h3>Jenkins</h3></th>
