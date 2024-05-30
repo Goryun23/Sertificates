@@ -68,7 +68,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/5f69f3ab-d1f5-4ee0-920b-e4c2cc237c18" title="Jmeter">
+      <img src="https://github.com/Goryun23/Sertificates/blob/main/Jmeter.png" title="Jmeter">
     </td>
   </tr>
   
