@@ -16,42 +16,7 @@
     </td>
   </tr>
   
-  
-
-  
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Jenkins</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>Web Automation
-<br>CI/CD
-<br>Web Automation
-<br>Test Management
-
-  </td>
-    <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/60dc1188-79cd-4bc3-90f3-7af49dbfdee1" title="Jenkins">
-    </td>
-  </tr>
-  
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Kubernetes</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>Test Automation
-<br>Docker 
-<br>CI/CD
-<br>Infrastructure and notifications
-
-  </td>
-    <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/5d8313c2-ce9c-41d6-b38c-7718c20dee79" title="Kubernetes">
-    </td>
-  </tr>
+    
   
   <tr>
     <th colspan="2" style="text-align:center;"><h3>Postman</h3></th>
