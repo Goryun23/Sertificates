@@ -12,10 +12,63 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Goryun23/Sertificates/blob/main/Снимок%20экрана%20(217).png" title="Docker">
+      <img src="https://github.com/Goryun23/Sertificates/blob/main/Снимок%20экрана%20(217).png" title="Test design techniques">
     </td>
   </tr>
-    <tr>
+  
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>Gitlab</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+
+<br>Gitlab
+<br>CI/CD
+<br>Web Automation
+<br>Test Reports
+<br>Test Management
+
+  </td>
+    <td width="70%">
+      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/465ea2d3-3f54-4c97-b5fb-91b081c0e0b9" title="Gitlab">
+  </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>Jenkins</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+
+<br>Web Automation
+<br>CI/CD
+<br>Web Automation
+<br>Test Management
+
+  </td>
+    <td width="70%">
+      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/60dc1188-79cd-4bc3-90f3-7af49dbfdee1" title="Jenkins">
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>Kubernetes</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+
+<br>Test Automation
+<br>Docker 
+<br>CI/CD
+<br>Infrastructure and notifications
+
+  </td>
+    <td width="70%">
+      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/5d8313c2-ce9c-41d6-b38c-7718c20dee79" title="Kubernetes">
+    </td>
+  </tr>
+  
+  <tr>
     <th colspan="2" style="text-align:center;"><h3>Postman</h3></th>
   </tr>
   <tr>
@@ -65,12 +118,6 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/5f69f3ab-d1f5-4ee0-920b-e4c2cc237c18" title="Jmeter">
-    </td>
-  </tr>
-  
-  <tr>
-   <td width="70%">
       <img src="https://github.com/Zhirkin22/Sert/assets/163585803/5f69f3ab-d1f5-4ee0-920b-e4c2cc237c18" title="Jmeter">
     </td>
   </tr>
