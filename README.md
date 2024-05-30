@@ -12,7 +12,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/17224b9e-83a0-47b0-a7ac-a57b7dc7ee1e" title="Docker">
+      <img src="https://github.com/Goryun23/Sertificates/blob/main/Снимок%20экрана%20(217).png" title="Docker">
     </td>
   </tr>
   
